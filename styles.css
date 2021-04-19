@@ -84,6 +84,7 @@ button:hover {
 
 #parent-output {
   width: 90%;
+  text-align: center;
 }
 
 @media only screen and (max-width: 550px) and (min-width: 225px) {
